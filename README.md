@@ -1,5 +1,5 @@
 # qgis_personnal_styles
-Collection of QGIS scripts to create amazing map visualizations
+Collection of QML style files to create amazing map visualizations in QGIS !
 
 [The windrose "hurricane" style](hurricane_windrose/windrose_hurricane_lines_only_style.qml)
 
@@ -9,6 +9,6 @@ Collection of QGIS scripts to create amazing map visualizations
 
 ![image](hurricane_windrose/windrose_lines_and_surface_style.png)
 
-[The "scaled by proprortion" style](scaled_by_proportion/scaled_by_proportion_style.qml)
+[The "scaled by proportion" style](scaled_by_proportion/scaled_by_proportion_style.qml)
 
 ![image](scaled_by_proportion/scaled_by_proportion_style.png)
